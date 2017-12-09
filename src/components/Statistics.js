@@ -9,14 +9,22 @@ export default class Statistics extends Component {
 		return (
 			<div className="statistics">
 				{/* React.js rendered this page in {benchmark} milliseconds. Refresh to benchmark again. */}
-				<img src="../styles/mp.jpg" />
-				Experience in developing across multiple coding languages with a firm belief in the importance of
-				programming logic and team leadership. Interests are in building high-performance teams with Agile
-				principles. Focused on finding solutions for software development with UML Modelling, Class Diagrams,
-				Sequence Diagrams, Use Case Diagrams, design visualisations, drawing detail blueprints, writing
-				specifications and explaining viewpoints. A Polyglot Engineer with current development stack is
-				Javascript, React, React Native, Redux, Flux, Webpack, Node.js, .NET Core, C#, Java and Objective-C.
-				plus Angular 2 and above.
+				<img src={require('../styles/mp.jpg')} alt="Marshal Paterson" className="img-circle" />
+				<hr />
+				<h1>Mobile App Tech Lead</h1>
+				<hr />
+				<p>
+					<span className="firstcharacter">E</span>xperience in developing across multiple coding languages
+					with a firm belief in the importance of programming logic and team leadership. Interests are in
+					building high-performance teams with Agile principles. Focused on finding solutions for software
+					development with UML Modelling, Class Diagrams, Sequence Diagrams, Use Case Diagrams, design
+					visualisations, drawing detail blueprints, writing specifications and explaining viewpoints. A
+					Polyglot Engineer with current development stack is Javascript, React, React Native, Redux, Flux,
+					Webpack, Node.js, .NET Core, C#, Java and Objective-C. plus Angular 2 and above.
+				</p>
+				Practice Lead for Development for Mobile<br/> 
+        Solution Application Architecture<br/> 
+        Technical Documentation<br/>
 			</div>
 		);
 	}

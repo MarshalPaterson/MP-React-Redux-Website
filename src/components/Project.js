@@ -21,7 +21,7 @@ export default class Project extends Component {
             { project.mobile_image !== '' ? <Mobile image={project.mobile_image}/> : null }
           </div>
         </div> */}
-        <div className="project-info">
+        {/* <div className="project-info">
           <a href={project.project_url} target="_blank">
             <h2>{project.title}</h2>
           </a>
@@ -35,7 +35,8 @@ export default class Project extends Component {
           <div>{project.role}</div>
           <h3>Tech Stack</h3>
           <div className="tech-icon-container">{techStackItems}</div>
-        </div>
+        </div> */}
+        <div className="tech-icon-container">{techStackItems}</div>
       </div>
     );
   }

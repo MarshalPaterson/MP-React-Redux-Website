@@ -9,7 +9,7 @@ const projectsData = {
       project_url: 'https://github.com/',
       background: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
       role: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-      tech_stack: ['React.js', 'socket.io', 'Redux', 'PostgreSQL', 'Node.js', 'express']
+      tech_stack: ['React Native', 'React.js', 'Redux', 'AngularJS', 'Node.js', 'express', 'PostgreSQL', 'MongoDB']
     }
   ]
 };

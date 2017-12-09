@@ -29,7 +29,7 @@ class App extends Component {
       <div className="main-app-container">
         <Header personalInfo={personalInfo} />
         <Statistics benchmark={benchmark} />
-        <div className="main-app-nav">Selected Projects</div>
+        {/* <div className="main-app-nav">Current development stack</div> */}
         {/* notice that we then pass those unpacked props into the Counter component */}
           {projectEntries}
         <Footer personalInfo={personalInfo} />
