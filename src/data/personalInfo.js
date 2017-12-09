@@ -1,10 +1,11 @@
 const personalInfoData = {
   name: 'Marshal Paterson',
-  linkedIn: 'https://www.linkedin.com/',
-  github: 'https://github.com/',
-  angelList: 'https://angel.co/',
-  email: 'mailto:you@gmail.com',
-  resume: 'https://www.dropbox.com/'
+  linkedIn: 'https://www.linkedin.com/in/mpaterson/',
+  github: 'https://github.com/MarshalPaterson',
+  email: 'mailto:marshal.paterson@gmail.com',
 };
 
 export { personalInfoData };
+
+//  angelList: 'https://angel.co/',
+//  resume: 'https://www.dropbox.com/'
