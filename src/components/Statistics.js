@@ -18,11 +18,9 @@ export default class Statistics extends Component {
 					with a firm belief in the importance of programming logic and team leadership. Interests are in
 					building high-performance teams with Agile principles. Focused on finding solutions for software
 					development with UML Modelling, Class Diagrams, Sequence Diagrams, Use Case Diagrams, design
-					visualisations, drawing detail blueprints, writing specifications and explaining viewpoints. A
-					Polyglot Engineer with current development stack is Javascript, React, React Native, Redux, Flux,
-					Webpack, Node.js, .NET Core, C#, Java and Objective-C. plus Angular 2 and above.
+					visualisations, drawing detail blueprints, writing specifications and explaining viewpoints. Current development stack is React Native & React with Redux, plus Java for Android and Objective-C for iOS.
 				</p>
-				Practice Lead for Development for Mobile<br/> 
+				Practice Lead in Development for Mobile<br/> 
         Solution Application Architecture<br/> 
         Technical Documentation<br/>
 			</div>

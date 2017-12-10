@@ -36,7 +36,7 @@ export default class Project extends Component {
           <h3>Tech Stack</h3>
           <div className="tech-icon-container">{techStackItems}</div>
         </div> */}
-        <div className="tech-icon-container">{techStackItems}</div>
+        {/* <div className="tech-icon-container">{techStackItems}</div> */}
       </div>
     );
   }
